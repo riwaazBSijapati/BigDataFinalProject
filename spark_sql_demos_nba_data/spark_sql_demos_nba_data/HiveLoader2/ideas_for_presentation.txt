@@ -1,0 +1,9 @@
+HiveLoader.jar following my HiveQLpractice.java
+HiveQL script to show off a select
+SparkQL script to show off a select
+
+Shell scripts to:
+	(1) change necessary permission
+	(2) automatically run loader and sql scripts
+	
+Ideas for input data? Comparing some NBA teams?
